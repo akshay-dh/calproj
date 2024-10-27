@@ -13,3 +13,14 @@ x=a+b+c
 z=a+b+c
 = 5+5+9
 =19
+
+
+#Subtraction Functionality 
+x=a-b
+=100-50
+=50
+
+#Division Functionality
+x=a/b
+=200/100
+=2   #------This is the answer#
