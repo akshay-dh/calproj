@@ -24,3 +24,8 @@ x=a-b
 x=a/b
 =200/100
 =2   #------This is the answer#
+
+
+# Numerator Example
+x= a is numerator of b
+
