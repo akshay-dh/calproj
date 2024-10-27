@@ -1,7 +1,5 @@
 #!/bin/bash
 
-#Addition function
-
-x=1+2
-y=1+3
-
+#Addition Function
+x=1+3
+y=5+5

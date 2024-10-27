@@ -28,20 +28,22 @@
 	1
 
 # File marks:
-'0  1  0  ~/calculator.sh
-'1  7  0  ~/calculator.sh
-'2  5  4  ~/calculator.sh
-'3  1  0  ~/letter2.sh
-'4  1  0  ~/lettter2,sh
-'5  3  4  ~/letter2.sh
-'6  1  0  ~/lettter2.sh
-'7  1  0  ~/letter1.sh
-'8  4  0  ~/letter1.sh
-'9  6  0  ~/letter1.sh
+'0  1  0  ~/response.json
+'1  1  0  ~/calculator.sh
+'2  7  4  ~/calculator.sh
+'3  6  5  ~/calculator.sh
+'4  5  4  ~/calculator.sh
+'5  1  0  ~/letter2.sh
+'6  1  0  ~/lettter2,sh
+'7  3  4  ~/letter2.sh
+'8  1  0  ~/lettter2.sh
+'9  1  0  ~/letter1.sh
 
 # Jumplist (newest first):
+-'  1  0  ~/response.json
 -'  1  0  ~/calculator.sh
--'  7  0  ~/calculator.sh
+-'  7  4  ~/calculator.sh
+-'  6  5  ~/calculator.sh
 -'  5  4  ~/calculator.sh
 -'  1  0  ~/letter2.sh
 -'  1  0  ~/lettter2,sh
@@ -63,7 +65,6 @@
 -'  1  0  ~/letter
 -'  11  20  ~/letter1
 -'  1  0  /tmp/awk.man
--'  1  0  ~/response.json
 -'  4  11  ~/firstletter.sh
 -'  1  0  ~/firstletter.sh
 -'  1  0  ~/firstletter,sh
@@ -137,17 +138,20 @@
 -'  1  1  ~/nodeHealth.sh
 -'  1  1  ~/nodeHealth.sh
 -'  1  1  ~/nodeHealth.sh
--'  1  1  ~/nodeHealth.sh
 
 # History of marks within files (newest to oldest):
 
+> ~/response.json
+	"	1	0
+
 > ~/calculator.sh
 	"	1	0
-	^	6	5
-	.	6	4
+	^	7	5
+	.	7	4
 	+	5	5
-	+	7	0
-	+	6	4
+	+	6	5
+	+	6	5
+	+	7	4
 
 > ~/letter2.sh
 	"	1	0
@@ -212,9 +216,6 @@
 	+	2	20
 
 > /tmp/awk.man
-	"	1	0
-
-> ~/response.json
 	"	1	0
 
 > ~/firstletter.sh

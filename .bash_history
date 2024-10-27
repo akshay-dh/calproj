@@ -602,3 +602,75 @@ clear
 git diff
 #1730013816
 git status
+#1730013859
+git add .
+#1730013866
+git status
+#1730013942
+git commit -m "first commit"
+#1730013956
+git log
+#1730014036
+git status
+#1730014051
+git diff
+#1730014209
+clear 
+#1730014217
+ls -ltr
+#1730014226
+ls -la
+#1730014232
+ls-a
+#1730014239
+ls -a
+#1730014256
+vim calculator.sh
+#1730014286
+clear
+#1730014291
+git status
+#1730014314
+git diff
+#1730014345
+clear
+#1730014356
+git status
+#1730014364
+vim calculator.sh
+#1730014374
+git diff
+#1730014455
+clear
+#1730014458
+ls
+#1730014546
+rm letter2.sh
+#1730014549
+ls
+#1730014561
+rm letter1.sh
+#1730014563
+ls
+#1730014575
+rm calculator.sh
+#1730014577
+ls
+#1730014586
+rm wq!
+#1730014588
+ls
+#1730014598
+vim response.json
+#1730014621
+rm response.json
+#1730014623
+ls
+#1730014629
+ls -ltr
+#1730014643
+clear
+#1730014647
+git status
+#1730014681
+git add
